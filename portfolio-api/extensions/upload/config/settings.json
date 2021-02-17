@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "threefour",
+    "api_key": "154264262369736",
+    "api_secret": "citlrAyhPaONmLBbnSx313fqLZQ"
+  }
+}
